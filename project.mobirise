@@ -1056,19 +1056,6 @@
             "gallery__filtersBtnStyle": "btn-primary",
             "gallery": [
               {
-                "tags": "Plants",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/scan10-1-2000x2163.png",
-                "thumb": "@PROJECT_PATH@/assets/images/scan10-1-2000x2163-800x865.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Fiddleheads ME",
-                "active": false
-              },
-              {
                 "tags": "Crafted Retouch, Plants, Wildflowers",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1079,7 +1066,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Virginia Bluebells PA",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Birds, Crafted Retouch",
@@ -1222,7 +1209,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Spring Beauties 10mm Blossoms Magnified",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animals",
@@ -1235,6 +1222,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Raccoon FL",
+                "active": false
+              },
+              {
+                "tags": "Crafted Retouch, Plants, Wildflowers",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan10-edit-editfr-2000x2182.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan10-edit-editfr-2000x2182-800x873.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Virginia Bluebells PA",
                 "active": false
               }
             ]
