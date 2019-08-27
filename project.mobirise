@@ -1082,19 +1082,6 @@
                 "active": true
               },
               {
-                "tags": "Plants",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/cd0005-1997-2000x2809.png",
-                "thumb": "@PROJECT_PATH@/assets/images/cd0005-1997-2000x2809-800x1124.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Fallen Seagrape Leaves FL",
-                "active": false
-              },
-              {
                 "tags": "Crafted Retouch, Plants, Wildflowers",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1235,6 +1222,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Bergamont and Pokeberries WV",
+                "active": false
+              },
+              {
+                "tags": "Birds, Crafted Retouch",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/cd0005-1998-2000x2809.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cd0005-1998-2000x2809-800x1124.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Red Shouldered Hawk FL",
                 "active": false
               }
             ]
