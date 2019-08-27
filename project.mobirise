@@ -1079,7 +1079,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Red Shouldered Hawk FL",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Crafted Retouch, Plants, Wildflowers",
@@ -1118,20 +1118,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Curved Trunks",
-                "active": false
-              },
-              {
-                "tags": "Plants",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/wet-leaves-tn-0153-2000x1491.png",
-                "thumb": "@PROJECT_PATH@/assets/images/wet-leaves-tn-0153-2000x1491-800x596.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Maine Forest Floor",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Plants, Wildflowers",
@@ -1186,19 +1173,6 @@
                 "active": false
               },
               {
-                "tags": "Animals",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dsc-4048-2-1893x1999.png",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-4048-2-1893x1999-800x845.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Raccoon FL",
-                "active": false
-              },
-              {
                 "tags": "Crafted Retouch, Plants, Wildflowers",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1234,7 +1208,33 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Red Shouldered Hawk FL",
+                "caption": "Fallen Seagrape Leaves FL",
+                "active": false
+              },
+              {
+                "tags": "Plants, Wildflowers",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/dsc-4048-2-2000x2112.png",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-4048-2-2000x2112-800x845.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Raccoon Sanibel I FL",
+                "active": false
+              },
+              {
+                "tags": "Crafted Retouch, Plants",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/wet-leaves-tn-153-2000x1491.png",
+                "thumb": "@PROJECT_PATH@/assets/images/wet-leaves-tn-153-2000x1491-800x596.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Maine Forest Floor",
                 "active": false
               }
             ]
