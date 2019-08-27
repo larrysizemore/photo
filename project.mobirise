@@ -1092,7 +1092,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Woodland Phlox PA",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Plants, Wildflowers",
@@ -1209,7 +1209,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Maine Forest Floor",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Crafted Retouch, Plants",
@@ -1221,11 +1221,11 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Maine Forest Floor",
+                "caption": "Raccoon Sanibel I FL",
                 "active": false
               },
               {
-                "tags": "Crafted Retouch, Plants, Wildflowers",
+                "tags": "Crafted Retouch, Plants",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1234,7 +1234,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Woodland Phlox PA",
+                "caption": "Bergamot and Pokeberries W Va",
                 "active": false
               }
             ]
