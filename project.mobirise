@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "life1.html",
+    "currentPage": "water3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1066,7 +1066,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Virginia Bluebells PA",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Crafted Retouch, Plants, Wildflowers",
@@ -1231,6 +1231,19 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/fb-img-1459819047626-edit.png-2000x2955.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/fb-img-1459819047626-edit.png-2000x2955-800x1182.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Red Shouldered Hawk FL",
+                "active": true
+              },
+              {
+                "tags": "Crafted Retouch, Plants, Wildflowers",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan34-edit-2000x2714.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan34-edit-2000x2714-800x1086.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -2274,6 +2287,19 @@
                 "customStyle1": "display-7",
                 "caption": "Rickett's Glen PA",
                 "active": true
+              },
+              {
+                "tags": "Birds, Crafted Retouch",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/cd0013-1998-edit-2000x2902.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cd0013-1998-edit-2000x2902-800x1161.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Rickett's Glen PA",
+                "active": false
               }
             ]
           }
@@ -3352,7 +3378,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Rock City Seven States",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Birds, Crafted Retouch",
@@ -3391,6 +3417,32 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Red Barn Seven Valleys PA",
+                "active": false
+              },
+              {
+                "tags": "Birds, Crafted Retouch",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/ohiomelocrown-barn033sc-edit-2000x1269.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ohiomelocrown-barn033sc-edit-2000x1269-800x508.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Melo Crown Stogies OH",
+                "active": true
+              },
+              {
+                "tags": "Birds, Crafted Retouch",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/cd0015-1999-edit-copy.png-2000x1323.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cd0015-1999-edit-copy.png-2000x1323-800x529.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Melo Crown Stogies OH",
                 "active": false
               }
             ]
