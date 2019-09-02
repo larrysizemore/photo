@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "water3.html",
+    "currentPage": "artifacts5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3442,7 +3442,20 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Melo Crown Stogies OH",
+                "caption": "Stonington Harbor ME",
+                "active": false
+              },
+              {
+                "tags": "Birds, Crafted Retouch",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/cd0016-1998-edit-2000x1379.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cd0016-1998-edit-2000x1379-800x552.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Nubble Light ME",
                 "active": false
               }
             ]
