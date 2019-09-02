@@ -1066,20 +1066,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Virginia Bluebells PA",
-                "active": false
-              },
-              {
-                "tags": "Birds, Crafted Retouch",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/fb-img-1459819047626-1068x1600.png",
-                "thumb": "@PROJECT_PATH@/assets/images/fb-img-1459819047626-1068x1600-800x1199.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Red Shouldered Hawk FL",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Crafted Retouch, Plants, Wildflowers",
@@ -1209,7 +1196,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Maine Forest Floor",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Crafted Retouch, Plants",
@@ -1235,6 +1222,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Bergamot and Pokeberries W Va",
+                "active": false
+              },
+              {
+                "tags": "Crafted Retouch, Plants, Wildflowers",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/fb-img-1459819047626-edit.png-2000x2955.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fb-img-1459819047626-edit.png-2000x2955-800x1182.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Red Shouldered Hawk FL",
                 "active": false
               }
             ]
@@ -2267,12 +2267,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/mbr-560x315.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-560x315-527x296.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/ricketts-glen-pascan252-edit-2000x1384.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ricketts-glen-pascan252-edit-2000x1384-800x554.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Cardinal in Snowstorm",
+                "caption": "Rickett's Glen PA",
                 "active": true
               }
             ]
